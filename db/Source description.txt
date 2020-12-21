@@ -1,0 +1,46 @@
+Emissions
+All emissions data from State and Territory Greenhouse Gas Inventories, Department of Industry, Science, Energy and Resources
+https://www.industry.gov.au/data-and-publications/state-and-territory-greenhouse-gas-inventories
+Alternative source for emissions data incl LULUCF: https://ageis.climatechange.gov.au/UNFCCC.aspx
+For the State level, emisisons from the category 'Electricity, Gas, Water & Waste Services' was split into 'Electricity generation' and 'Gas, Water & Waste Services' using daat described below
+
+
+
+Industry Added Value by industry division or industry subdivision
+Source: Australian Bureau of Statistics
+https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/8155.02017-18?OpenDocument
+Industry data was reported in financial year and has been averaged to convert to calender year
+For the State level, the category 'Electricity, Gas, Water & Waste Services' was split into 'Electricity generation' and 'Gas, Water & Waste Services' by using the national split between the two.
+For the ACT, Added value from electricity generation was set at zero for all years.
+
+Inflation index
+RBA Inflation calculator
+https://www.rba.gov.au/calculator/
+
+Electricity generation
+National and NT, WA numbers via the Energy Update 2020, Table O
+https://www.energy.gov.au/publications/australian-energy-update-2020
+NSW, QLD, SA, TAS, VIC: AEMO data via NEMSight http://analytics.com.au/energy-analysis/nemsight-trading-tool
+ACT: “Electricity generation and emissions are not shown for the ACT, instead they are shown as part of NSW. The ACT is part of the NSW region in the National Electricity Market. The ACT has renewable energy generation under contract that equates to the total electricity use in the ACT and thus claims zero emissions from electricity generation for the ACT.”
+
+Emisisons from electricity generation:
+National numbers via State and Territory Greenhouse Gas Inventories, Department of Industry, Science, Energy and Resources
+https://www.industry.gov.au/data-and-publications/state-and-territory-greenhouse-gas-inventories
+NSW, QLD, SA, TAS, VIC: AEMO data via NEMSight http://analytics.com.au/energy-analysis/nemsight-trading-tool
+
+NT, WA numbers estimated using emission intensity as reported in the Electricity sector emissions and generation data, Clean Energy Regulator:
+http://www.cleanenergyregulator.gov.au/NGER/National%20greenhouse%20and%20energy%20reporting%20data/electricity-sector-emissions-and-generation-data
+These emissions intensity numbers were then multiplied with geertaion data reported in the Energy Update 2020, Table O, as this table has longer time series. 
+Also, the elevctricity emissions reported by the Clean Energy Regulator do not match well with the emissions reported for 'Electricity, Gas, Water & Waste Services', whereas those in the Energy Update do.
+https://www.energy.gov.au/publications/australian-energy-update-2020
+
+Emissions intensity of electricity generation for NT, WA for the period 2005-2013 is presumed equal to the intensity reported in 2014, the earliest year for which data is available
+ACT: “Electricity generation and emissions are not shown for the ACT, instead they are shown as part of NSW. The ACT is part of the NSW region in the National Electricity Market. The ACT has renewable energy generation under contract that equates to the total electricity use in the ACT and thus claims zero emissions from electricity generation for the ACT.”
+
+
+
+
+
+Population numbers via the Australian Bureau of Statistics
+https://www.abs.gov.au/statistics/people/population/population-projections-australia/latest-release
+Note population projections are for Series B
